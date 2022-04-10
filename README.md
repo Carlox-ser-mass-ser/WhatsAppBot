@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<strong>ＡＬＩＥＮ ＡＬＦＡ ＢＯＴ</strong>
+<strong>ℓιℓℓу-мωσℓ 2.0 ＢＯＴ</strong>
 </p>
 
 
