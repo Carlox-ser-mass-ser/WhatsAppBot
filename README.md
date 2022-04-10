@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<strong>ℓιℓℓу-мωσℓ 2.0 ＢＯＴ</strong>
+<strong>ＬＩＬＬＹ-ＭＷＯＬ ２.０ ＢＯＴ</strong>
 </p>
 
 
